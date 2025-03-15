@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SubhadipSahoo-lab
 - 👀 I’m interested in ML, DL. 
-- 🌱 I’m currently learning LLM, GenAI
+- 🌱 I’m currently learning about LLM and GenAI
 - 📫 How to reach me ... send an email to subhadip.sahoo1998@gmail.com
 - ⚡ Fun fact: ☕ "Coffee fuels my code!"
 
